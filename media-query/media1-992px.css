@@ -1,0 +1,308 @@
+body {
+  background-color: #ebe7e7;
+}
+
+@media screen and (max-width: 992px) {
+  .container {
+    max-width: 929px;
+  }
+
+  .nav h1 a {
+    font-size: 30px;
+  }
+
+  .nav li a {
+    font-size: 16px;
+    padding-left: 20px;
+  }
+
+  .nav button {
+    font-size: 18px;
+    width: 160px;
+    height: 50px;
+  }
+
+  .header .header-text h2 {
+    font-size: 48px;
+    margin-top: 81px;
+    margin-bottom: 27px;
+    display: flex;
+  }
+  .header .header-text h2 img {
+    width: 58px;
+    height: 58px;
+    margin-right: 170px;
+    margin-top: 70px;
+  }
+  .header .header-text p {
+    margin-bottom: 33px;
+    font-size: 20px;
+  }
+  .header .header-text a {
+    padding: 17px 78px;
+    font-size: 24px;
+  }
+  .header .header-img img {
+    margin-top: 38px;
+    width: 460px;
+    height: 460px;
+  }
+
+  main h3 {
+    text-align: center;
+    font-weight: 600px;
+    font-size: 36px;
+    margin-top: 72px;
+    margin-bottom: 53px;
+  }
+
+  .main .main-card {
+    margin-bottom: 180px;
+    width: 100%;
+  }
+  .main .card1 {
+    width: 303px;
+    height: 696px;
+  }
+  .main .card1 img {
+    width: 260px;
+    height: 260px;
+    margin: 0 22px;
+  }
+  .main .card1 h4 {
+    font-size: 22px;
+    margin-left: 29px;
+    margin-bottom: 20px;
+    font-weight: 600px;
+  }
+  .main .card1 p {
+    margin-left: 29px;
+    font-size: 14px;
+    margin-bottom: 20px;
+    width: 262px;
+  }
+  .main .card1 a {
+    margin-left: 29px;
+    font-size: 14px;
+    padding: 8px 38px;
+  }
+  .main .card2 {
+    margin-left: 13px;
+    width: 302px;
+    height: 441px;
+  }
+  .main .card2 img {
+    width: 205px;
+    height: 205px;
+    margin: 5px 10px 0 87px;
+  }
+  .main .card2 h4 {
+    font-size: 22px;
+    margin-left: 29px;
+    margin-bottom: 5px;
+  }
+  .main .card2 p {
+    margin-left: 29px;
+    font-size: 14px;
+    width: 262px;
+    margin-bottom: 23px;
+  }
+  .main .card2 a {
+    margin-left: 29px;
+    font-size: 18px;
+    padding: 8px 38px;
+    border-radius: 5px;
+  }
+  .main .card3 {
+    margin-left: 13px;
+    width: 302px;
+    height: 441px;
+  }
+  .main .card3 img {
+    width: 205px;
+    height: 205px;
+    margin: 5px 10px 0 87px;
+  }
+  .main .card3 h4 {
+    font-size: 22px;
+    margin-left: 29px;
+    margin-bottom: 5px;
+  }
+  .main .card3 p {
+    margin-left: 29px;
+    font-size: 14px;
+    width: 262px;
+    margin-bottom: 23px;
+  }
+  .main .card3 a {
+    margin-left: 29px;
+    font-size: 18px;
+    padding: 8px 38px;
+    border-radius: 5px;
+  }
+  .main .card4 {
+    width: 618px;
+    height: 241px;
+    display: flex;
+    position: relative;
+    top: 450px;
+    right: 634px;
+  }
+  .main .card4 img {
+    width: 30%;
+    height: 169px;
+    margin: 33px 28px 29px 0px;
+  }
+  .main .card4 h4 {
+    margin-left: 29px;
+    font-size: 22px;
+    margin-top: 13px;
+  }
+  .main .card4 p {
+    margin-left: 29px;
+    font-size: 14px;
+    margin-bottom: 23px;
+  }
+  .main .card4 a {
+    margin-left: 29px;
+    font-size: 18px;
+    padding: 8px 38px;
+  }
+
+  .info {
+    margin-bottom: 100px;
+  }
+  .info .info-img img {
+    width: 336px;
+    height: 336px;
+  }
+  .info .info-text h3 {
+    font-size: 26px;
+    margin-bottom: 13px;
+  }
+  .info .info-text p {
+    width: 600px;
+    font-size: 16px;
+  }
+  .info .info-n h4 {
+    font-size: 30px;
+  }
+  .info .info-n pre {
+    font-size: 16px;
+  }
+
+  .section-title {
+    text-align: center;
+    font-size: 48px;
+    font-weight: 600px;
+    margin-bottom: 51px;
+  }
+
+  .price {
+    margin-bottom: 170px;
+  }
+  .price .box1 img {
+    margin-bottom: 28px;
+    width: 222px;
+    height: 222px;
+  }
+  .price .box1 h5 {
+    font-size: 22px;
+    margin-bottom: 9px;
+  }
+  .price .box1 p {
+    width: 300px;
+    font-size: 16px;
+    margin-bottom: 19px;
+  }
+  .price .box1 a {
+    font-size: 24px;
+    padding: 4px 30px;
+    border-radius: 10px;
+  }
+  .price .box1 a span {
+    font-size: 16px;
+  }
+  .price .box2 img {
+    margin-bottom: 86px;
+    width: 250px;
+    height: 163px;
+  }
+  .price .box2 h5 {
+    font-size: 22px;
+    margin-bottom: 7px;
+  }
+  .price .box2 p {
+    width: 300px;
+    font-size: 16px;
+    margin-bottom: 45px;
+  }
+  .price .box2 a {
+    font-size: 24px;
+    padding: 4px 30px;
+  }
+  .price .box2 a span {
+    font-size: 16px;
+  }
+  .price .box3 img {
+    width: 224px;
+    height: 200px;
+    margin-bottom: 48px;
+  }
+  .price .box3 h5 {
+    font-size: 22px;
+    margin-bottom: 5px;
+  }
+  .price .box3 p {
+    width: 300px;
+    font-size: 16px;
+    margin-bottom: 24px;
+  }
+  .price .box3 a {
+    font-size: 24px;
+    padding: 4px 30px;
+  }
+  .price .box3 a span {
+    font-size: 16px;
+  }
+
+  .footer {
+    margin-bottom: 60px;
+  }
+  .footer .footer-img img {
+    width: 312px;
+    height: 281px;
+  }
+  .footer .footer-text h3 {
+    font-size: 36px;
+    margin-bottom: 3px;
+  }
+  .footer .footer-text p {
+    width: 576px;
+    font-size: 16px;
+    font-weight: 400px;
+    margin-bottom: 34px;
+  }
+  .footer .footer-text input {
+    width: 320px;
+    height: 60px;
+    font-size: 14px;
+    padding-left: 23px;
+  }
+  .footer .footer-text button {
+    width: 193px;
+    height: 60px;
+  }
+
+  .foot-logo {
+    margin-bottom: 30px;
+  }
+
+  .foot-logo a {
+    font-size: 30px;
+  }
+
+  .foot-logo pre {
+    font-size: 18px;
+  }
+}/*# sourceMappingURL=media1-992px.css.map */
